@@ -1,0 +1,41 @@
+* {margin: 0; padding: 0;}
+			
+body { 
+	font-family: georgia; 
+	font-size: 1.5vw;
+}
+
+h1 {
+    margin: 1em 0 0.66em;
+    font-size: 2.7em;
+    border-bottom: 0.4em solid #FFC749;
+    border-radius: 15px;
+    padding: 0 0.7ch 0.3em 0;
+    text-indent: -0.5ch;
+    display: inline-block;
+}
+
+h2 {
+	margin: 1em 0 0.66em;
+    color: #f23;
+    font-size: 1em;
+    text-align: center;
+}
+
+article {
+	margin: auto;
+    max-width: 40ch;
+    font-size: 1.8em;
+    line-height: 1.64em; 
+}
+
+div, p {
+	margin: 0 0 2em;
+}
+
+img { 
+	display: block;
+	margin: auto;
+	max-width: 100%; 
+}
+
